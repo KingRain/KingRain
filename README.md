@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=rainboi.netlify.com&style=for-the-badge&url=https%3A%2F%2Frainboi.netlify.com)](https://rainboi.netlify.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rainboi15?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frainboi15&screen_name=RainBoi)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Graphics Designer, Art freelancer and I also do 3D modeling!!
 
 - 🔭 I just launched my Portfolio/Blog: [Over here][website]!
 - 🌱 I’m currently learning more python based stuff
