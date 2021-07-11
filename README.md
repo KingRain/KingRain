@@ -8,10 +8,10 @@
 - 🔭 I just launched my Portfolio/Blog: [Over here][website]!
 - 🌱 I’m currently learning more python based stuff
 - 👯 I’m looking to collaborate with other creators
-- 🥅 2020 Goals: Try to start more interesting projects
-- ⚡ Fun fact: I'm doing Art Commissions right now!
+- 🥅 2021 Goals: Try to start more interesting projects
+- ⚡ I'm doing Art Commissions right now!
 
-Discord: RainBoi#1000
+Discord: RainBoi#1553
 
 ### Connect with me:
 
