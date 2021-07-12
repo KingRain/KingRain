@@ -14,7 +14,7 @@
 Discord: RainBoi#1553
 
 ### Donate:
-If you like my work and would like to donate then feel free to go here and donate through whichever meathod you want 💙
+If you like my work and would like to [Donate](https://coindrop.to/rainboi) then feel free to go here and donate through whichever meathod you want 💙
 
 <a href="https://coindrop.to/rainboi" target="_blank"><img src="https://coindrop.to/embed-button.png" style="border-radius: 10px; height: 57px !important;width: 229px !important;" alt="Coindrop.to RainBoi"></img></a>
 
