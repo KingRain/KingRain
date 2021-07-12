@@ -44,6 +44,10 @@ If you like my work and would like to donate then feel free to go here and donat
 [![KingRain's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingrain&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingrain)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 [website]: https://rainboi.netlify.com
 [twitter]: https://twitter.com/rainboi15
 [youtube]: https://youtube.com/
