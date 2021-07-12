@@ -35,6 +35,11 @@ Discord: RainBoi#1553
 <br />
 
 ---
+#If you like my work and would like to donate then feel free to go here and donate through whichever meathod you want 💙
+
+-[Coindrop.to/RainBoi](https://coindrop.to/rainboi)
+
+---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
