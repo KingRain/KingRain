@@ -13,6 +13,11 @@
 
 Discord: RainBoi#1553
 
+### Donate:
+If you like my work and would like to donate then feel free to go here and donate through whichever meathod you want 💙
+
+-[Coindrop.to/RainBoi](https://coindrop.to/rainboi)
+
 ### Connect with me:
 
 [<img align="left" alt="rainboi.netlify.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -35,19 +40,10 @@ Discord: RainBoi#1553
 <br />
 
 ---
-#If you like my work and would like to donate then feel free to go here and donate through whichever meathod you want 💙
 
--[Coindrop.to/RainBoi](https://coindrop.to/rainboi)
+[![KingRain's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingrain)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="KingRain's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kingrain&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://rainboi.netlify.com
 [twitter]: https://twitter.com/rainboi15
 [youtube]: https://youtube.com/
