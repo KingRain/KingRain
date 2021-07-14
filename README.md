@@ -45,7 +45,7 @@ If you like my work and would like to [Donate](https://coindrop.to/rainboi) then
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingrain&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingrain&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 [website]: https://rainboi.netlify.com
