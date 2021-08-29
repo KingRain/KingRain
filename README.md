@@ -48,6 +48,15 @@ If you like my work and would like to [Donate](https://coindrop.to/rainboi) then
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingrain&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+<a href="https://github.com/KingRain/SimpleDiscordMusicBot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingrain&repo=SimpleDiscordMusicBot&theme=dracula" />
+</a>
+<a href="https://github.com/KingRain/DiscordWebScrapper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingrain&repo=DiscordWebScrapper&theme=dracula" />
+</a>
+
+---
+
 [website]: https://kingrain.netlify.com
 [twitter]: https://twitter.com/rainboi15
 [youtube]: https://youtube.com/
