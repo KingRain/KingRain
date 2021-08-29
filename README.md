@@ -55,6 +55,14 @@ If you like my work and would like to [Donate](https://coindrop.to/rainboi) then
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingrain&repo=DiscordWebScrapper&theme=dracula" />
 </a>
 
+---
+
+<a href="https://github.com/KingRain/DogeDiscordBot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingrain&repo=DogeDiscordBot&theme=dracula" />
+</a>
+<a href="https://github.com/KingRain/WeatherApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingrain&repo=WeatherApp&theme=dracula" />
+</a>
 
 ---
 
