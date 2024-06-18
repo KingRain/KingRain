@@ -1,29 +1,8 @@
-### Hi there, I'm Sam - aka [KingRain][website] 👋
+### Hi there, I'm Sam - aka [HttpError][website] 👋
 
-[![Website](https://img.shields.io/website?label=kingrain.netlify.com&style=for-the-badge&url=https%3A%2F%2Fkingrain.netlify.com)](https://kingrain.netlify.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/rainboi15?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frainboi15&screen_name=RainBoi15)
+[![Website](https://img.shields.io/website?label=httperror.netlify.com&style=for-the-badge&url=https%3A%2F%2Fhttperror.netlify.com)](https://httperror.netlify.com)
 
-## I'm a Graphics Designer, Art freelancer and I also do 3D modeling!!
-
-- 🔭 I just launched my Portfolio/Blog: [Over here][website]!
-- 🌱 I’m currently learning more python based stuff
-- 👯 I’m looking to collaborate with other creators
-- 🥅 2021 Goals: Try to start more interesting projects
-- ⚡ I'm doing Art Commissions right now!
-
-Discord: RainBoi#1553
-
-### Donate:
-If you like my work and would like to [Donate](https://coindrop.to/rainboi) then feel free to go here and donate through whichever meathod you want 💙
-
-<a href="https://coindrop.to/rainboi" target="_blank"><img src="https://coindrop.to/embed-button.png" style="border-radius: 10px; height: 57px !important;width: 229px !important;" alt="Coindrop.to RainBoi"></img></a>
-
-### Connect with me:
-
-[<img align="left" alt="kingrain.netlify.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="RainBoi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="RainBoi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="RainBoi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+Discord: httperror.
 
 <br />
 
@@ -46,27 +25,3 @@ If you like my work and would like to [Donate](https://coindrop.to/rainboi) then
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingrain&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
----
-<a href="https://github.com/KingRain/SimpleDiscordMusicBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingrain&repo=SimpleDiscordMusicBot&theme=dracula" />
-</a>
-<a href="https://github.com/KingRain/DiscordWebScrapper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingrain&repo=DiscordWebScrapper&theme=dracula" />
-</a>
-
----
-
-<a href="https://github.com/KingRain/DogeDiscordBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingrain&repo=DogeDiscordBot&theme=dracula" />
-</a>
-<a href="https://github.com/KingRain/WeatherApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingrain&repo=WeatherApp&theme=dracula" />
-</a>
-
----
-
-[website]: https://kingrain.netlify.com
-[twitter]: https://twitter.com/rainboi15
-[youtube]: https://youtube.com/
-[instagram]: https://instagram.com/rainboi.png
