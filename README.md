@@ -20,8 +20,8 @@ Discord: httperror.
 
 ---
 
-[![KingRain's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingrain&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![KingRain's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingrain&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingrain&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingrain&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
