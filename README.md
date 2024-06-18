@@ -1,4 +1,4 @@
-### Hi there, I'm Sam - aka [HttpError][website] 👋
+### Hi there, I'm Sam - aka [HttpError](https://httperror.netlify.com) 👋
 
 [![Website](https://img.shields.io/website?label=httperror.netlify.com&style=for-the-badge&url=https%3A%2F%2Fhttperror.netlify.com)](https://httperror.netlify.com)
 
