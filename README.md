@@ -9,7 +9,7 @@
 
 ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingRain&show_icons=true&theme=dark&card_width=500&hide_border=true)
 ![Sam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KingRain&layout=compact&theme=dark&card_width=500&hide_border=true)
-![Sam's Stats](https://github-readme-streak-stats.herokuapp.com/?user=kingrain&theme=dark&hide_border=false)
+![Sam's Stats](https://github-readme-streak-stats.herokuapp.com/?user=kingrain&theme=dark&hide_border=true)
 
 <h3 align="left">Connect with me:</h3>
 
