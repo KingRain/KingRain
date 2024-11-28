@@ -11,6 +11,12 @@
 ![Sam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KingRain&layout=compact&theme=dark&card_width=500&hide_border=true)
 ![Sam's Stats](https://github-readme-streak-stats.herokuapp.com/?user=kingrain&theme=dark&hide_border=true)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 <h3 align="left">Connect with me:</h3>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/546690021571297280)](https://discord.com/users/546690021571297280)
